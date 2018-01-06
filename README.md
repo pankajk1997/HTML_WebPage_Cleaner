@@ -1,4 +1,4 @@
-# HTML_Post_Optimiser_Blogger
+# Clean_HTML_Page_Blogger
 
 Clean HTML code of your Blogger Post or Page with this python3 script, Add your code to Input.txt.
 
